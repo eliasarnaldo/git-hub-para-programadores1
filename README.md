@@ -1,2 +1,2 @@
 # git-hub-para-programadores1
-Prueba de git hub
+Prueba de repositorio
